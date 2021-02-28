@@ -1,5 +1,5 @@
 # Fabiano Rocha | Front-End Developer
-## 24 anos | Rio de janeiro | RJ
+## 24 anos | Rio de Janeiro | RJ
 ***
 
 Seja bem vindo ao meu github, aonde você irá encontrar projetos pessoais que exibirá minhas habilidades como front-end developer. 
