@@ -3,16 +3,15 @@
 ### 24 anos | Rio de janeiro | RJ
 ***
 
-Seja bem vindo ao meu github, aonde você irá encontrar projetos pessoais que exibirá minhas habilidades como front-end developer. Sou apaixado por tecnologia e estou sempre aprimorando meus conhecimentos para esta atualizado e fazer aquilo que amo.
+Seja bem vindo ao meu github, aonde você irá encontrar projetos pessoais que exibirá minhas habilidades como front-end developer. 
+Sou apaixado por tecnologia e estou sempre aprimorando meus conhecimentos para esta atualizado e fazer aquilo que amo.
 
-<img align="right" src="imagens/fotoreadmegithub.png" width="200">
+<img align="left" src="imagens/fotoreadmegithub.png" width="200">
 
 Skills:
 * HTML
-* CSS                                                        
+* CSS                                                                                                     
 * JavaScript
 * SQL
 
-
-
- 
+[Acesse meu Linkedin](https://www.linkedin.com/in/fabiano-rocha-83992a122/)
